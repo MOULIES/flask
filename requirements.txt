@@ -1,8 +1,0 @@
-flask
-pytest
-flask-testing
-blinker
-flask-sqlalchemy
-flask-migrate
-flask-wtf
-werkzeug
